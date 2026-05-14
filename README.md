@@ -1,4 +1,4 @@
-<img width="1902" height="955" alt="image" src="https://github.com/user-attachments/assets/30a44b5c-32d0-48fb-9e9d-c2161219f6d8" />Landing Page para Lotuus Spa
+<img width="1902" height="955" alt="image" src="https://github.com/user-attachments/assets/30a44b5c-32d0-48fb-9e9d-c2161219f6d8" />
 
 # Landing Page - Lotuus Spa 🌿
 
